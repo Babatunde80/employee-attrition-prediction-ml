@@ -1,7 +1,9 @@
-# Employee Attrition Prediction Using Machine Learning
+# Employee Attrition Prediction ML for HR
 
 ## Project Overview
 A comprehensive machine learning-based system for predicting employee turnover using workforce analytics. This project leverages **Supervised Machine Learning** algorithms across multiple models to identify flight-risk employees, supporting HR departments in proactive retention strategies and workforce planning.
+
+**Industry:** Human Resources (HR)
 
 ## Executive Summary
 Developed and compared four machine learning models for employee attrition prediction, achieving **83% accuracy** with Gradient Boosting as the top performer. This HR analytics solution analyzes 35+ employee attributes including satisfaction levels, work-life balance, compensation, and career progression to predict which employees are likely to leave, enabling data-driven retention interventions.
