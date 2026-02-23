@@ -79,3 +79,9 @@ Deploy the Gradient Boosting model in HR systems with the following strategy:
 - Integrate with ATS (Applicant Tracking System) to predict candidate retention likelihood during hiring
 - A/B test retention interventions to measure model-driven program effectiveness
 - Deploy as cloud API for enterprise-wide access across all departments
+
+### Let’s Connect:
+If you’re interested in collaborating, discussing my work, or just connecting on data science, feel free to reach out!
+
+- **Email:** poisedconsult@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/babatunde-joel-etu/
