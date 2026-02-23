@@ -1,4 +1,5 @@
 # Employee Attrition Prediction ML for HR
+<img width="1536" height="1024" alt="Copilot_20260223_154039" src="https://github.com/user-attachments/assets/47064708-f7a8-4c73-a4dd-48663bd18f81" />
 
 ## Project Overview
 A comprehensive machine learning-based system for predicting employee turnover using workforce analytics. This project leverages **Supervised Machine Learning** algorithms across multiple models to identify flight-risk employees, supporting HR departments in proactive retention strategies and workforce planning.
